@@ -25,7 +25,7 @@ There is one notebook(Seattle AirBnb Price Prediction.ipynb) available here to s
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://medium.com/@noritakahara/predicting-price-of-airbnb-in-seattle-for-2016-what-really-matters-8d52b221bb18).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
