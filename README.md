@@ -21,7 +21,7 @@ For this project, I was interestested in analyzing AirBnB data from 2016 to addr
 
 ## File Descriptions <a name="files"></a>
 
-There is 1 notebooks available here to show the data preparation and analysis to the above questions. Markdown cells were used to describe the questions and findings of the data analysis.
+There is one notebook(Seattle AirBnb Price Prediction.ipynb) available here to show the data preparation and analysis to the above questions. Markdown cells were used to describe the questions and findings of the data analysis.
 
 ## Results<a name="results"></a>
 
